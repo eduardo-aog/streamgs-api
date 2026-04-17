@@ -2,5 +2,5 @@
 /.env
 
 .env
-usuarios.py
 schema.sql
+analisis_app.md
