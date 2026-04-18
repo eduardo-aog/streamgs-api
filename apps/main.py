@@ -34,4 +34,4 @@ app.include_router(router_catalogos)
 
 @app.get("/")
 def inicio():
-    return {"mensaje": "Streamgs API corriendo mediante capas correctamente"}
+    return {"mensaje": "Streamgs API corriendo correctamente"}
